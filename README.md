@@ -21,4 +21,4 @@ Loyalty program
 - Web Service
 
 ## UI Design
-![Alt text](https://github.com/jirayu88/Echo/blob/master/app_-01.jpg)
+![Alt text](https://github.com/jirayu88/Echo/blob/master/gas.png)
